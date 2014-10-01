@@ -6,3 +6,7 @@ Patchwork SF hello world
 Jason Moore
 Software Engineer from the East Bay
 Love pepperoni pizza
+
+Alex Southgate
+Software Engineer from San Francisco
+Love pepperoni :pizza: also
